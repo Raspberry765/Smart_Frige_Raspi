@@ -1,0 +1,1 @@
+# Smart_Frige_Raspi
